@@ -20,6 +20,9 @@
 > 我们现在还在运行的HTML版本有 HTML4.01、XHTML、HTML5 至少这三个版本，而HTML5的规则也有所不同，但是我们应该还是要以W3C为标准
 
 ## 三.HTML的学习内容
+
+![](res/mipmap/html_introduction_content.jpg)
+
 * HTML标签负责完成结构
 * CSS负责完成表现（效果）
 * javascript负责响应交互
